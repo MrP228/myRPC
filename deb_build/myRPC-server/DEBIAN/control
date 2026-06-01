@@ -1,0 +1,5 @@
+Package: myrpc-server
+Version: 1.0
+Architecture: amd64
+Maintainer: Student
+Description: myRPC Server
